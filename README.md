@@ -5,7 +5,7 @@ Created using the gtkmm library, Java and Donut Express (JADE), is a C++ based G
  To run the program, type the following commands :
  
     make
-    ./msh
+    ./main
     
 # References
 This program uses images created by George F. Rice. For more details read the References.txt in the Additional Docs folder.
